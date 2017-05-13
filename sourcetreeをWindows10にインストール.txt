@@ -1,7 +1,10 @@
-Onedrive->�h�L�������g->testrep ������Ă�����clone���쐬���Ă���B
+﻿Onedrive->ドキュメント->testrep を作ってそこにcloneを作成している。
 
 18:15 2017/05/13
-�Eatlasian �A�J�E���g�́A���łɎ����Ă����悤���B
-�E�t�@�C���V�K�ō쐬���Ă݂��B(clone)
+・atlasian アカウントは、すでに持っていたようだ。
+・ファイル新規で作成してみた。(clone)
+
+18:19 2017/05/13
+・テキストファイルをUTF-8にしてみた。
 
 [EOF]
